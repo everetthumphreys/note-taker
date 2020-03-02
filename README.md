@@ -11,4 +11,4 @@ A note taking application.
 * [uniqid](https://www.npmjs.com/package/uniqid)
 
 ### Screenshot:
-![Screenshot](https://raw.githubusercontent.com/everetthumphreys/employee-management-system/master/assets/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/everetthumphreys/employee-management-system/master/public/assets/images/screenshot.png)
