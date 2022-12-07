@@ -13,7 +13,7 @@
   "author": "Everett Humphreys",
   "license": "Apache-2.0",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mysql": "^2.16.0",
     "uniqid": "^5.2.0"
   }
